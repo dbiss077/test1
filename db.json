@@ -1,5 +1,5 @@
 {
-"Quiz1": {
+"Quiz2": {
   "MCQuestion": [{
       "q": "Using the declaration below, what will be the final element of the array? int [ ] grades = new int[35]?",
       "choice1": "Grades[0]",
