@@ -1,0 +1,243 @@
+{
+"Quiz1": {
+  "MCQuestion": [{
+      "q": "Using the declaration below, what will be the final element of the array? int [ ] grades = new int[35]?",
+      "choice1": "Grades[0]",
+      "choice2": "Grades[34]",
+      "choice3": "Grades[35]",
+      "choice4": "Impossible to tell",
+      "answer": {
+        "correctChoice": "Grades[34]",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Grades[34]"
+    },
+    {
+      "q": "It is the Java keyword that creates inheritance? ",
+      "choice1": "Enlarge",
+      "choice2": "Extends",
+      "choice3": "Inherits",
+      "choice4": "Inheritance",
+      "answer": {
+        "correctChoice":"Extends",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Extends"
+    },
+    {
+      "q": "It is the rules of a programming language?",
+      "choice1": "Format",
+      "choice2": "Logic",
+      "choice3": "Object",
+      "choice4": "Syntax",
+      "answer": {
+        "correctChoice":"Syntax",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Syntax."
+    },
+    {
+      "q": "It is the code/s inside a pair of curly braces?",
+      "choice1": "Block",
+      "choice2": "Brick",
+      "choice3": "Function",
+      "choice4": "Method",
+      "answer": {
+        "correctChoice":"Block",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Block"
+    },
+    {
+      "q": "If A=10, then after B=++A, the value of B is _______",
+      "choice1": "10",
+      "choice2": "11",
+      "choice3": "12",
+      "choice4": "13",
+      "answer": {
+        "correctChoice":"11",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect" : "Sorry, that is incorrect! The correct answer is 11"
+    },
+    {
+      "q": " It is the characteristics of Java which ensures that a program can go only where it is designed to go and eliminates the possibility of altering system data unintentionally?",
+      "choice1": "Java is simple",
+      "choice2": "Java is secure",
+      "choice3": "Java is free",
+      "choice4": "Java is portable",
+      "answer": {
+        "correctChoice":"Java is secure",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Java is secure"
+    },
+       {
+      "q":"It is a form of Java program that runs locally on the command line A?",
+      "choice1": "Applets",
+      "choice2": "Application",
+      "choice3": "Midlets",
+      "choice4": "Servlets",
+      "answer": {
+        "correctChoice":"Application",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Application"
+    },
+     {
+      "q": "It defines the common variables and methods of a set of objects?",
+      "choice1": "Objects",
+      "choice2": "Class",
+      "choice3": "Function",
+      "choice4": "Method",
+      "answer": {
+        "correctChoice":"Class",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Class"
+    },
+     {
+      "q": "It is the process of removing errors found in the program?",
+      "choice1": "Editing",
+      "choice2": "Debugging",
+      "choice3": "Compiling",
+      "choice4": "Running",
+      "answer": {
+        "correctChoice":"Debugging",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Debugging"
+    },
+     {
+      "q": "Which symbol is used to denote a multi-line comment?",
+      "choice1": "/ /",
+      "choice2": "/* */",
+      "choice3": "{ }",
+      "choice4": "&lt;&gt;",
+      "answer": {
+        "correctChoice":"/* */",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is /* */"
+    },
+     {
+      "q": "Which of the following is not a unary operator?",
+      "choice1": "Negation",
+      "choice2": "Decrement",
+      "choice3": "Bitwise complement",
+      "choice4": "Assignment",
+      "answer": {
+        "correctChoice":"Assignment",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Assignment"
+    },
+     {
+      "q": "Which of the following is not a Java keyword?",
+      "choice1": "Default",
+      "choice2": "For",
+      "choice3": "Volatile",
+      "choice4": "Of",
+      "answer": {
+        "correctChoice":"Of",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Of"
+    },
+    {
+      "q": "Which of the following is an invalid first character of an identifier?",
+      "choice1": "__",
+      "choice2": "$",
+      "choice3": "A",
+      "choice4": "8",
+      "answer": {
+        "correctChoice":"8",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 8 "
+    },
+    {
+      "q": "It is the length of the data type short?",
+      "choice1": "8 bits",
+      "choice2": "16 bits",
+      "choice3": "32 bits",
+      "choice4": "64 bits",
+      "answer": {
+        "correctChoice":"16 bits",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 16 bits "
+    },
+    {
+      "q": "Which of the following is an invalid variable declaration in Java?",
+      "choice1": "Int NumberOfStudents = 250;",
+      "choice2": "Double Salary =0.0;",
+      "choice3": "String NAME =",
+      "choice4": "Char CivilStatus =",
+      "answer": {
+        "correctChoice":"Char CivilStatus =",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Char CivilStatus ="
+    }
+  ],
+
+  "TFQuestion": [{
+      "q": "String is a primitive data type?",
+      "Tchoice": "True",
+      "Fchoice": "False",
+      "answer": {
+        "correctChoice":"True",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True."
+    }
+  ],
+
+  "FillIn": [{
+      "q": "_____ the length of the data type float",
+      "option1": "",
+      "answer": {
+        "correctChoice":"32 bits",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 32 bits"
+    },
+    {
+      "q": "_______ is the data type used for a single character",
+      "option1": "",
+      "answer": {
+        "correctChoice":"Char",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Char"
+    }
+  ],
+
+  "ShortAnswer": [{
+    "q": "What syntax elimiates every line of code in Java?",
+    "usertext": "",
+    "answer":{
+    "correctChoice":";",
+    "pointsAwarded": 1
+  },
+  "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is ;"
+  }
+  ],
+    "ImageQ": [{
+    "q": " What will be the output of the following code?",
+    "img": "q2img1.png",
+    "choice1": "123",
+    "choice2": "Error",
+    "choice3": "321",
+    "choice4": "None of the above",
+    "answer": {
+        "correctChoice":"321",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 321"
+    }
+  ]
+}
+}
+ 
